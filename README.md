@@ -5,6 +5,10 @@ Simple TODO App
 
 The project is public
 
+## Preview 
+
+[Vanilla ToDo](https://bvenceslas.github.io/VanillaTODO/)
+
 ## Built With
 
 - Html
