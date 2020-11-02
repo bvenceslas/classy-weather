@@ -1,5 +1,6 @@
 # VanillaTODO
 Simple TODO App
+gh_pages is a branch where the project is deployed 
 
 ## Getting Started
 
