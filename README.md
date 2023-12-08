@@ -6,14 +6,14 @@ Weather App using old react class medthods
 
 The project is public
 
-## Preview 
+## Preview
 
-[Vanilla ToDo](https://bvenceslas.github.io/VanillaTODO/)
+[Classy Weather](https://bvenceslas.github.io/classy-weather/)
 
 ## Built With
 
 - React 5.0 [npx]
- 
+
 ## Author
 
 👤 Venceslas Burongu
